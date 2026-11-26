@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5EFE5&height=190&section=header&text=Aminata%20Faye&fontSize=48&fontColor=55382B&desc=Computer%20Science%20Engineering&descSize=20&descAlignY=72" width="100%"/>
-
-**DATA ENGINEERING · ARTIFICIAL INTELLIGENCE · PROJECT MANAGEMENT**
+<img src="./banner.svg" alt="Aminata Faye - Engineering Portfolio" width="100%"/>
 
 Engineering Student at UTC | Apprentice at Covéa (MMA)
 
