@@ -74,7 +74,7 @@ Requirements analysis · Agile methodologies · Project planning · Technical de
 
 ---
 
-## 04. Selected Projects
+## Selected Projects
 
 ### Data Engineering & Artificial Intelligence
 
@@ -100,7 +100,7 @@ Requirements analysis · Agile methodologies · Project planning · Technical de
 
 ---
 
-## 05. Professional Experience
+## Professional Experience
 
 ### Covéa — MMA Assurances
 
@@ -121,7 +121,7 @@ This experience has strengthened both my technical skills and my ability to mana
 
 ---
 
-## 06. Professional Interests
+## Professional Interests
 
 - Data Engineering & Data Architecture
 - Artificial Intelligence & Machine Learning
@@ -131,7 +131,7 @@ This experience has strengthened both my technical skills and my ability to mana
 
 ---
 
-## 07. Curriculum Vitae & Contact
+## Curriculum Vitae & Contact
 
 CV and professional contact links coming soon.
 
