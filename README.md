@@ -6,7 +6,7 @@
 Engineering Student at UTC | Apprentice at Covéa (MMA)
 
 <p align="center">
-  <a href="./Aminata_Faye_CV.pdf"><img src="./button-cv.svg" alt="Curriculum Vitae" height="34"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ndeye-aminata-aida-faye-6a2608303/"><img src="./button-linkedin.svg" alt="LinkedIn" height="34"></a>
+  <a href="./CV_FAYE_Ndeye_Aminata.pdf"><img src="./button-cv.svg" alt="Curriculum Vitae" height="34"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ndeye-aminata-aida-faye-6a2608303/"><img src="./button-linkedin.svg" alt="LinkedIn" height="34"></a>
 </p>
 
 </div>
