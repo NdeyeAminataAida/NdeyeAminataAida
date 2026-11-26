@@ -11,7 +11,7 @@ Engineering Student at UTC | Apprentice at Covéa (MMA)
 
 ---
 
-## 01. About Me
+## About Me
 
 I am a Computer Science Engineering student at the Université de Technologie de Compiègne (UTC), currently completing a two-year apprenticeship at Covéa (MMA Assurances).
 
@@ -23,7 +23,7 @@ I am particularly interested in bridging technical solutions and business needs,
 
 ---
 
-## 02. Education & Professional Background
+## Education & Professional Background
 
 | Period | Institution | Position |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ I am particularly interested in bridging technical solutions and business needs,
 
 ---
 
-## 03. Technical Skills
+## Technical Skills
 
 ### Data Engineering & Artificial Intelligence
 
